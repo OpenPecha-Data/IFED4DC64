@@ -3,23 +3,20 @@ annotation_type: pagination
 revision: '00001'
 annotations:
   2d10eb56c3ee477c9649810589e8b685:
-    page_index: 1a
-    page_info: null
-    reference: I1KG206090001
+    imgnum: 1
+    reference: I1KG206090001.tif
     span:
       start: 0
       end: 622
   c2238c559da041ab9285bc502d458684:
-    page_index: 2a
-    page_info: null
-    reference: I1KG206090003
+    imgnum: 3
+    reference: I1KG206090003.jpg
     span:
       start: 627
       end: 806
   7b73b66c9ecc4283bd85ac6be281ce60:
-    page_index: 53b
-    page_info: null
-    reference: I1KG206090106
+    imgnum: 106
+    reference: I1KG206090106.jpg
     span:
       start: 811
       end: 1174
